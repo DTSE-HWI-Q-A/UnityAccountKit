@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"1",
+		"cp_id":"890052100000000429",
+		"product_id":"736430079244744721",
+		"client_id":"518985613018411648",
+		"client_secret":"E451E59A849D671F83CF423D745715F1004AE768F237CFB89D42415ABBB5FD43",
+		"project_id":"736430079244744721",
+		"app_id":"103505571",
+		"api_key":"CgB6e3x9QJ5BYKhVOSUZTFHtFspnsa4MdrJQxrAhVZTNaqgfSHP4HwNRiC8oFV1pZSvHI/x4iNc9crhBGCnJtQTg",
+		"package_name":"com.ADX2099.AndroidTest"
+	},
+	"configuration_version":"1.0"
+}
